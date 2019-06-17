@@ -25,6 +25,7 @@ class rubro {
         document.getElementById('precio').innerHTML = `${this.precio}`;
         document.getElementById('cantidad').innerHTML = `${this.cantidad}`;
         document.getElementById('TotalProducto').innerHTML = `${valorTotal2}`;
+        document.getElementById('articulo').innerHTML = `${this.nombre}`;
 
 
 
